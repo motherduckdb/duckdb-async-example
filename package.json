@@ -1,0 +1,19 @@
+{
+  "name": "duckdb-async-example",
+  "version": "1.0.0",
+  "description": "Example of using duckd-async",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "duckdb-async": "../duckdb-async"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.0",
+    "typescript": "^4.8.4"
+  }
+}
