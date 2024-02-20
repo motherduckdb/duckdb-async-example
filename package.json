@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "duckdb-async": "0.6.1"
+    "duckdb-async": "0.10.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.0",
